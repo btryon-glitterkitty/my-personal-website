@@ -1,3 +1,5 @@
 body {
-    background: #ce5937;
+    background:
+    linear-gradient(to bottom, #ce5937, #31a6c8);
+    
   }
